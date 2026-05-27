@@ -22,6 +22,8 @@
   et met à jour les labels du center et du bottom.
 -->
 
+
+
 <BorderPane xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="fr.univ_amu.iut.exercice4.CoquilleAccueilController"
             prefWidth="720.0" prefHeight="480.0">
